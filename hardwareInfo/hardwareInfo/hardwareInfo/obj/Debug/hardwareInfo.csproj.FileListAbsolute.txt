@@ -1,0 +1,14 @@
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\hardwareInfo.exe.config
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\hardwareInfo.exe
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\hardwareInfo.pdb
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\MetroFramework.Design.dll
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\MetroFramework.dll
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\bin\Debug\MetroFramework.Fonts.dll
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.csprojAssemblyReference.cache
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.Form1.resources
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.Properties.Resources.resources
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.csproj.GenerateResource.cache
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.csproj.CoreCompileInputs.cache
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.csproj.CopyComplete
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.exe
+D:\QuiQui\LT_API\hardwareInfo\hardwareInfo\hardwareInfo\obj\Debug\hardwareInfo.pdb

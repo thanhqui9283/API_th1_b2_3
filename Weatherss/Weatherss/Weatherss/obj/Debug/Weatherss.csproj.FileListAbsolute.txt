@@ -1,0 +1,13 @@
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.csprojAssemblyReference.cache
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.Form1.resources
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.Properties.Resources.resources
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.GenerateResource.cache
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CoreCompileInputs.cache
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\bin\Debug\Weatherss.exe.config
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\bin\Debug\Weatherss.exe
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\bin\Debug\Weatherss.pdb
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.dll
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.xml
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CopyComplete
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.exe
+D:\QuiQui\LT_API\Weatherss\Weatherss\Weatherss\obj\Debug\Weatherss.pdb
